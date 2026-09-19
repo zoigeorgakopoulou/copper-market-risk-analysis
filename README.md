@@ -4,7 +4,7 @@
 This project analyzes the historical behavior of copper futures prices using quantitative methods in R. The analysis examines daily returns, volatility, extreme price movements, and the relationship between annual returns and risk over the period from January 2007 to September 4, 2026.
 
 The objective is to identify how copper-market risk changes across different market environments and translate these patterns into financially relevant insights.
-📄 [Read the Full Report](Copper_Market_Risk_Report.pdf)
+📄 [Read the Full Report]([Copper_Market_Risk_Report.pdf])
 
 ## Research Question
 **How does copper-market risk evolve over time, and what patterns in its returns and volatility can be identified from historical data?**
