@@ -80,6 +80,7 @@ Overall, the results indicate that copper-market risk is **time-varying rather t
 copper-market-risk-analysis/
 ├── R
 ├── figures/
+├── Copper Analysis using R.pdf
 ├── .gitignore
 ├── R project.Rproj
 └── README.md
